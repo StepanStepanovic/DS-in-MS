@@ -1,0 +1,179 @@
+3-Hydroxycarbofuran , 2 9 7
+Acetamiprid , 5 3 9 11 14
+Acibenzolar-S-methyl , 11 2 4 10 13
+Alanycarb , 22 8 15 16 20 25
+Aldicarb_sulfone , 2 13 14 6
+Aldicarb_sulfoxide , 2 13 6
+Ametryn , 3 11 5
+Aminocarb , 2 7 8 9 10 13 15
+Amitraz , 11 2 4 6 13 15 18 20
+Azoxystrobin , 27 4 13 30
+Benalaxyl , 9 4 7 14 18 20 22
+Bendiocarb , 2 9 7
+Benfuracarb , 8 5 9 10 13 16 18 19
+Benzoximate , 4 3 6 8 15 19 21 24
+Bifenazate , 16 2 3 4 5 8 10 12 13 18 19
+Bitertanol , 23 8 10 14 16 18 20 25
+Boscalid , 3 5 7 8 9 11 16 17 21
+Bromuconazole , 10 12
+Bupirimate , 16 19 14 7
+Buprofezin , 17 6 9 11 13 15
+Carbaryl , 2 7 9 11 13 14
+Carbendazim , 7 9
+Carbetamide , 11 3 13 15 17
+Carbofuran , 2 6 7 9 10 12
+Carboxin , 6 3 8 10 12 13
+Carfentrazone-ethyl , 21 5 10 13 22 24
+Chlorantraniliprole , 2 5 6 10 13 17 20 23
+Chlorfluazuron , 3 5 8 11 23 24
+Chloroxuron , 5 2 8 9 13 14 17 18 19 20
+Chlortoluron , 6 2 4 9 12
+Clethodim , 18 10 15
+Clofentezine , 11 3 4 6 8 9 10 13 15 16 19 20
+Clothianidin , 2 8 6
+Cyazofamid , 9 2 3 4 6 12 15 16 17 20 21
+Cycluron , 6
+Cymoxanil , 3 11 6
+Cyproconazole , 5 11 7
+Cyprodinil , 17 3 8 12 14 16
+Cyromazine , 8 1 5
+Desmedipham , 15 6 8 10 17 19 21 22
+Dicrotophos , 12 10 13 4
+Diethofencarb , 8 3 4 5 6 15 17
+Difenoconazole , 9 11 12 14
+Diflubenzuron , 3 5 14 16 17 20 21
+Dimethoate , 2 8 9 6
+Dimethomorph , 10 5 8 11 18 19 22 23 24
+Dimoxystrobin , 16 2 6 10 11 13 18 21 23
+Diniconazole , 19 8 21
+Dinotefuran , 14 2 11 13
+Dioxacarb , 2 7 11 13 16
+Diuron , 6 2 8 10 14
+Doramectin , 38 64 34 35 2 6 40 10 12 46 48 16 51 23 60
+Emamectin-benzoate_(B1b) , 18 2 34 38 40 8 48 61
+Epoxiconazole , 10 12 13 15 17 19
+Eprinomectin , 58 64 2 26 39 41 42 10 47 17 55 29 31
+Etaconazole , 10 12 13 15 18
+Ethiprole , 24 9 5 8
+Ethirimol , 10 8
+Ethofumesate , 5 3 7 8 10 13 14 15 16
+Etoxazole , 26 13 11 5
+Fenamidone , 4 8 10 12 14 16 18 20 22
+Fenarimol , 12 1 3 5 8 9 14
+Fenazaquin , 15 7 23 6
+Fenbuconazole , 16 1 7 8 11 18 20 22 24
+Fenhexamid , 5 8 13 7
+Fenobucarb , 14 5 6 7 9
+Fenoxycarb , 6 9 11 12 16 18 20 21 22
+Fenpropimorph , 15 5 6 12 13 19
+Fenpyroximate , 31 3 14 21 24
+Fenuron , 6 2 8 10 12
+Flonicamid , 9 1 4 7 11
+Flubendiamide , 30 16 20
+Flufenacet , 6 4 10 11 17 19 20 23
+Flufenoxuron , 23 25 5
+Fluometuron , 6 2 8 10 16
+Fluoxastrobin , 6 2 3 11 13 15 19 21
+Fluquinconazole , 14 1 8 10 16 20 23 24
+Flusilazole , 6 10 11 14 15 17 18 21
+Flutolanil , 10 4 6 8 23
+Flutriafol , 6 8 11 14 15
+Forchlorfenuron , 14 3 5 7 9 12 17
+Formetanate_HCL , 11 4 7 9 16
+Fuberidazole , 6 8 10 2
+Furathiocarb , 14 7 8 10 11 15 17 19 20
+Hexaconazole , 10 12 13 15 18
+Hexaflumuron , 19 5 8 18 21
+Hexythiazox , 17 13
+Hydramethylnon , 5 8
+Imazalil , 10
+Imidacloprid , 6 16
+Indoxacarb , 7 4 36 13 21 22 25 27
+Ipconazole , 10 21
+Iprovalicarb , 12 8
+Isoprocarb , 2 7 9 10 11
+Isoproturon , 10 4 5 6 11 14
+Kresoxim-methyl , 6 2 3 10 11 13 14 16 18 20 22
+Linuron , 7 9 11 15
+Lufenuron , 3 1 6 9 11 14 16
+Mandipropamid , 11 4 6 15 27
+Mefenacet , 8 4 10 12 13 14 21
+Mepanipyrim , 8 5 12 14 16 17
+Mepronil , 10 20 12 14
+Mesotrione , 10 3 4 13 18 22 23
+Metaflumizone , 15 1 34 8 13 16 23 24 26
+Metalaxyl , 5 18
+Metconazole , 22 10 20 13
+Methabenzthiazuron , 8 2 10 12
+Methamidophos , 5 2 4 6
+Methiocarb , 2 7 10 11 15
+Methomyl , 2 6
+Methoprotryne , 6 8 14
+Methoxyfenozide , 10 4 6 11 13 18 21 26
+Metobromuron , 6 3 7 9 14
+Metribuzin , 5 12 4 6
+Mevinphos , 10 2 4 5 11 13
+Mexacarbate , 2 7 8 10 11 14 16
+Monocrotophos , 2 10 5
+Monolinuron , 6 3 9 10 13 14
+Moxidectin , 3 32 33 2 35 37 36 41 12 18 20 21 23 26 29
+Myclobutanil , 11 7 13 16 19 20
+Neburon , 9 5 11 13 17
+Nitenpyram , 15 5 6 10 13 17
+Novaluron , 22 5 7 21 24
+Nuarimol , 14 1 12
+Omethoate , 2 8 9 6
+Oxadixyl , 5 6 7 10 12 15 20
+Oxamyl , 2 6 8 11 12
+Penconazole , 8 10
+Pencycuron , 3 5 7 9 10
+Phenmedipham , 14 5 7 9 16 18 21 22
+Picoxystrobin , 26 4 6 7 10 12 14
+Pirimicarb , 8 3 5 12 16
+Prochloraz , 22 18 20
+Promecarb , 2 10 7 15
+Prometon , 6 12 4
+Prometryne , 6 12 4
+Propamocarb , 11 7
+Propiconazole , 11 13
+Propoxur , 2 6 7 8 9 10 12
+Pymetrozine , 4 2 3 8 14
+Pyracarbolid , 6 3 8 10 12
+Pyraclostrobin , 27 4 5 6 9 11 13 15 17 21
+Pyridaben , 20 6 7 10 13 21 23 24
+Pyrimethanil , 6 3 10 12 14 15
+Pyriproxyfen , 24 4 6 7 11 13 15 16 17 20
+Quinoxyfen , 10 8 12
+Rotenone , 28 1 6 8 9 10 17 18 19 21 22 24 25
+Secbumeton , 3 11 5
+Siduron , 11 8 13 15 17
+Simetryn , 3 11 5
+Spinetoram , 36 3 41 45 22 23
+Spinosad , 49 2 35 4 6 10 43 48 16 51 19 24 27 29
+Spirodiclofen , 12 7 10 13 16 17 20 21
+Spiromesifen , 24 3 4 7 9 11 22 25 27
+Spirotetramat , 19 5 7 8 10 13 15
+Spiroxamine , 4 10 21
+Sulfentrazone , 19 3 5 6 8 11 13 15 16
+Tebuconazole , 19 21
+Tebufenozide , 10 8 12 20
+Tebufenpyrad , 21 4 7 10 14 20
+Tebuthiuron , 2 8 9
+Teflubenzuron , 14 5 8 12 16
+Temephos , 24 4 9 10 12 14 15 20 25 26
+Terbumeton , 3 5
+Terbutryne , 3 16 5
+Tetraconazole , 13 15
+Thiabendazole , 12 11
+Thiacloprid , 1 3 10 12 15
+Thiamethoxam , 15 8 10 17 18
+Thidiazuron , 3 5 7 9 11 12 13 14
+Thiobencarb , 7 3 8 12 15 16
+Thiophanate-methyl , 18 10 11 13 15 20
+Triadimefon , 18 6 10 11 14 15 20
+Tricyclazole , 9 10
+Trifloxystrobin , 3 2 6 13 14 16
+Triflumizole , 22 7
+Triflumuron , 3 24 5 15
+Vamidothion , 2 12 7
+Zoxamide , 5 18 7
