@@ -56,9 +56,9 @@ Contains thermodynamic and electronic descriptors related to the formation and s
 
 | Column | Description                                                                 |
 |--------|-----------------------------------------------------------------------------|
-| `HOMO` | HOMO energy (eV) of the neutral molecule                                    |
-| `DG`   | Gibbs free energy difference between [M+H]⁺ and [M+H]²⁺• (kJ/mol)           |
-| `DE`   | Electronic energy difference between [M+H]⁺ and [M+H]²⁺• (kJ/mol)           |
+| `HOMO` | HOMO energy (eV) of the [M+H]⁺                                    |
+| `DG`   | Gibbs free energy difference between [M+H]⁺ and [M+H]²⁺• (kcal/mol)           |
+| `DE`   | Electronic energy difference between [M+H]⁺ and [M+H]²⁺• (kcal/mol)           |
 | `M`    | Molecular mass                                                              |
 | `name` | Molecule name                                                               |
 
